@@ -5,7 +5,7 @@ from craft import __version__
 long_description = open('README.md').read()
 
 requirements = [
-    'opencv-python==4.1.2.30',
+    'opencv-python==4.2.0.32',
     'scikit-image==0.14.2'
 ]
 
